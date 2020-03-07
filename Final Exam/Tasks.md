@@ -15,7 +15,7 @@
 ## 3. bool doExist(char* symbols, char* word)
 
 Да се напише функция на C++, със сигнатура
-***bool doExist(char* symbols, char* word)***, която проверява дали думата *word*, се среща
+***bool doExist(char\* symbols, char* word)***, която проверява дали думата *word*, се среща
 в символният низ *symbols*. Да не се използва вградената библиотека string.
 
 ## 4. void Revert(char[])
